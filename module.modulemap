@@ -1,0 +1,4 @@
+    header "header.h"
+module cgtk [system] {
+    export *
+}
