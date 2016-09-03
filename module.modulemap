@@ -1,4 +1,4 @@
-    header "header.h"
 module cgtk [system] {
+    umbrella header "header.h"
     export *
 }
